@@ -23,8 +23,6 @@ function Feed() {
         timestamp="This is a timestamp"
         username="Arqhifa"
       />
-      <Post />
-      <Post />
     </div>
   );
 }
